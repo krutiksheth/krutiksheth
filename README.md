@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krutiksheth
 - 👀 I’m interested in coding and helping coder 
-- 🌱 I’m currently learning React + Typescript, Angular + Typescript and Node
+- 🌱 I’m currently learning advance React + Typescript, Angular + Typescript and Node
 - 💞️ I’m looking to collaborate on private as well as public repos
 - 📫 How to reach me : contact me at sheth.krutik@gmail.com
 
