@@ -3,7 +3,7 @@
 - 🌱 I’m experienced in React + Typescript, Angular + Typescript and Node
 - 💞️ I’m looking to collaborate on private as well as public repos
 - 📫 How to reach me : contact me at sheth.krutik@gmail.com
-
+- github profiles: https://github.com/krutik-sheth-swi
 
 <!---
 krutiksheth/krutiksheth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
