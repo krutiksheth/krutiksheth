@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @krutiksheth
-- 👀 I’m interested in coding and helping coder 
-- 🌱 I’m experienced in React + Typescript, Angular + Typescript and Node, Next.JS, .Net Framework
-- 💞️ I’m looking to collaborate on private as well as public repos
-- SolarWinds Github: [krutik-sheth-swi](https://github.com/krutik-sheth-swi?tab=overview&from=2023-12-01&to=2023-12-31)
-- Deltatre Github: [krutik-sheth-deltatre](https://github.com/krutik-sheth-deltatre)
-<!---
-krutiksheth/krutiksheth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi there, I’m Krutik Sheth  
+
+💡 Passionate developer with 15+ years of experience in building scalable and high-quality software solutions.  
+I love **coding, problem-solving, and helping fellow developers** grow in their journey.  
+
+---
+
+## 👀 About Me  
+- 💻 Experienced in:  
+  - **Frontend:** React + TypeScript, Angular + TypeScript, Next.js  
+  - **Backend:** Node.js, .NET Framework & .NET Core  
+  - **Other Skills:** Microservices, Cloud (Azure), CI/CD, and Enterprise Application Development  
+- 🌱 Always learning new technologies and best practices to stay ahead in the tech world.  
+- 🤝 Open to collaborating on **both private and public repositories**.  
+- ⚡ I believe in writing clean, maintainable, and testable code.  
+
+---
+
+## 💼 Professional GitHub Contributions  
+- 🔹 **SolarWinds GitHub**: [krutik-sheth-swi](https://github.com/krutik-sheth-swi?tab=overview&from=2023-12-01&to=2023-12-31)  
+- 🔹 **Deltatre GitHub**: [krutik-sheth-deltatre](https://github.com/krutik-sheth-deltatre)  
+
+---
+
+## 📫 Let’s Connect  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/krutiksheth)  
+- 📧 Reach me at **aaryavarttechnologies@gmail.com**  
